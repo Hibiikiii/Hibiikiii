@@ -1,4 +1,6 @@
-### Hi there, Leon here! 👋
+### Hi there, 
+
+#Leon here! 👋
 
 My name is Leon, also called Hibiikiii. I'm a founder of [FrostFightStudios](https://frostfightstudios.com), and an Indie Developer.
 
