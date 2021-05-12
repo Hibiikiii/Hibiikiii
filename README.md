@@ -11,7 +11,7 @@ My name is Leon, also called Hibiikiii. I'm a founder of [FrostFightStudios](htt
 ---
 
 ![Hibiikiii's GitHub stats](https://github-readme-stats.vercel.app/api?username=hibiikiii&show_icons=true)
-
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hibiikiii)
 
 <!--
 **Hibiikiii/Hibiikiii** is a ✨ _special_ ✨ repository because its 'README.md' (this file) appears on your GitHub profile.
