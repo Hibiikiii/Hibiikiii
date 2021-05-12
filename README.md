@@ -7,5 +7,9 @@ My name is Leon, also called Hibiikiii. I'm a founder of [FrostFightStudios](htt
 - 👯 We are actually searching some people (especially 3D and 2D artists), who can help to work on Afterfall.
 - ⚡ Pizza is awesome, ah and by the way greetings to my future me!
 - 💌 Love you Eolalia!
+
+---
+
+
 <!--
 **Hibiikiii/Hibiikiii** is a ✨ _special_ ✨ repository because its 'README.md' (this file) appears on your GitHub profile.
