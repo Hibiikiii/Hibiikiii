@@ -11,6 +11,8 @@ My name is Leon, also called Hibiikiii. I'm a founder of [FrostFightStudios](htt
 ---
 
 ![Hibiikiii's GitHub stats](https://github-readme-stats.vercel.app/api?username=hibiikiii&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hibiikiii&layout=compact)
+
 
 
 <!--
