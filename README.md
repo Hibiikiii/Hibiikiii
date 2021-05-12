@@ -12,5 +12,10 @@ My name is Leon, also called Hibiikiii. I'm a founder of [FrostFightStudios](htt
 
 ![Hibiikiii's GitHub stats](https://github-readme-stats.vercel.app/api?username=hibiikiii&show_icons=true)
 
+## How to reach me via social media
+<p>
+<a href="https://www.linkedin.com/in/crypticani/"><img src="https://img.shields.io/badge/-LinkedIn-blue?&style=for-the-badge&logo=linkedin&logoColor=white" height=30></a> 
+<a href="https://twitter.com/RealHibiikiii"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=30></a> 
+<a href="https://twitter.com/RealHibiikiii"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=discord&logoColor=white" height=30></a> 
 <!--
 **Hibiikiii/Hibiikiii** is a ✨ _special_ ✨ repository because its 'README.md' (this file) appears on your GitHub profile.
