@@ -16,7 +16,7 @@ My name is Leon, also called Hibiikiii. I'm a founder of [FrostFightStudios](htt
 <p>
 <a href="https://www.linkedin.com/in/leon-e-ba2571186/"><img src="https://img.shields.io/badge/-LinkedIn-blue?&style=for-the-badge&logo=linkedin&logoColor=white" height=30></a> 
 <a href="https://twitter.com/RealHibiikiii"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=30></a> 
-<a href="https://twitter.com/RealHibiikiii"><img src="https://img.shields.io/discord/500356704446316567?label=Afterfall&logo=discord&style=for-the-badge"
+<a href="https://discord.gg/BKG7nFc"><img src="https://img.shields.io/discord/500356704446316567?label=Afterfall&logo=discord&style=for-the-badge"
 height=30></a> 
 
 <!--
