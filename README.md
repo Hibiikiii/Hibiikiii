@@ -1,6 +1,6 @@
 # Hi there, Leon here! 👋
 
-My name is Leon, also called Hibiikiii. I'm a founder of [FrostFightStudios](https://frostfightstudios.com), and an Indie Developer.
+My name is Leon, also called Hibiikiii. I'm a founder of [FrostFightStudios](https://frostfightstudios.com), and a Indie Developer.
 
 - 📫 Want to get in contact with me? No problem! [Twitter](https://twitter.com/RealHibiikiii), [Mail](mailto:leon.e@frostfightstudios.com) or Discord: Leon.#8871
 - 🔭 Working in my Studio on a game called [Afterfall](https://playafterfall.com). My primary Programming Languages are C++ (With a focus on Unreal Engine).
