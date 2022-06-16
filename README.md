@@ -6,7 +6,6 @@ My name is Leon, also called Hibiikiii. I'm a founder of [FrostFightStudios](htt
 - 🔭 Working in my Studio on a game called [Afterfall](https://playafterfall.com). My primary Programming Languages are C++ (With a focus on Unreal Engine).
 - 👯 We are actually searching some people (especially 3D and 2D artists), who can help to work on Afterfall.
 - ⚡ Pizza is awesome, ah and by the way greetings to my future me!
-- 💌 Love you Eolalia!
 
 ---
 ### Things I use ✨
