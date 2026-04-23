@@ -31,8 +31,8 @@ Right now, I'm working to turn my hobby into a career. I have been passionate ab
 
 ---
 ### Current projects 🖥️
-⚙️ Unreal Launcher (still private) - Currently working with [Maxim Bigler](https://github.com/BiiigM) to create a fast launcher only for the Unreal Engine, stripped of the games & store tab from the Epic Games Launcher.  
-⚙️ eos-API-wrapper (still private) - Currently working with [Maxim Bigler](https://github.com/BiiigM) to fetch data from the API used by the Epic Games Launcher, allowing us to use these values in the Unreal Launcher.  
+⚙️ Unreal Launcher (still private) - Currently working with [Maxim Bigler](https://github.com/maximbigler) to create a fast launcher only for the Unreal Engine, stripped of the games & store tab from the Epic Games Launcher.  
+⚙️ eos-API-wrapper (still private) - Currently working with [Maxim Bigler](https://github.com/maximbigler) to fetch data from the API used by the Epic Games Launcher, allowing us to use these values in the Unreal Launcher.  
 ✅ [tbs-game (school)](https://github.com/Hibiikiii/tbs-game) - This was an addition to a school project to replace a written exam in the Abitur. I will finish the scoring system if I find time.  
 ✅ [UltimateWindowPolice](https://github.com/Hibiikiii/UltimateWindowPolice) - This is a plugin I made for Unreal Engine after reading through posts on the Unreal Forum. I decided to provide a solution to save data before losing it when a player quits the game or application suddenly.  
 
